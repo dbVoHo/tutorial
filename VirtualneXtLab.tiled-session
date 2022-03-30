@@ -1,0 +1,165 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "D:/repos/workadv_das-labor/basement.json": {
+            "scale": 1.4546875,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -415.89688506981736,
+                "y": 360.21482277121373
+            }
+        },
+        "D:/repos/workadv_das-labor/basement.json#caution_sign_bleutailfly_cc0": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/basement.json#dk_transports": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/basement.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/basement.json#labor": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/basement.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/basement.json#office_1": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/basement.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/basement.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/basement.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/basement.json#signpost-outsidestuff": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/main.json": {
+            "scale": 1.4546875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 736.5843179377015,
+                "y": 272.2234156820623
+            }
+        },
+        "D:/repos/workadv_das-labor/main.json#RC3-2021": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/main.json#divoc-functional": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/main.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/main.json#labor": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/main.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/main.json#office_1": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/main.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/main.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/main.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/outside.json": {
+            "scale": 1.4546875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 385.99355531686365,
+                "y": 543.7593984962406
+            }
+        },
+        "D:/repos/workadv_das-labor/outside.json#Fairydust_Small": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/outside.json#Terrain and Outside": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/outside.json#deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/outside.json#favicon-32x32": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/outside.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "D:/repos/workadv_das-labor/outside.json#signpost-outsidestuff": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 1.4546875,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 737.2717508055854,
+                "y": 359.5273899033298
+            }
+        },
+        "map.json#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Special_Zones": {
+            "scaleInDock": 4
+        },
+        "map.json#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "src/assets/favicon-32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "D:/repos/rc3-cccsbg/assets/tilesets",
+    "last.imagePath": "D:/repos/itrain-frontend/src/assets/favicon",
+    "last.worldFilePath": "D:/repos/tutorial",
+    "loadedWorlds": [
+        "D:/repos/tutorial/neXtWorld.world",
+        "D:/repos/workadv_das-labor/das-labor.world"
+    ],
+    "openFiles": [
+    ],
+    "project": "VirtualneXtLab.tiled-project",
+    "recentFiles": [
+        "src/assets/favicon-32x32.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled Tileset Dateien (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx"
+}
