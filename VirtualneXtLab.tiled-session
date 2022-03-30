@@ -111,8 +111,8 @@
             "scale": 1.4546875,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 1540.5370569280344,
-                "y": 360.21482277121373
+                "x": 737.2717508055854,
+                "y": 359.5273899033298
             }
         },
         "map.json#WA_Decoration": {
@@ -137,12 +137,13 @@
             "scaleInDock": 1
         },
         "map.json#WA_Special_Zones": {
-            "scaleInDock": 1
+            "scaleInDock": 4
         },
         "map.json#WA_Tables": {
             "scaleInDock": 1
         },
         "src/assets/favicon-32x32.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         }
     },
