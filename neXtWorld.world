@@ -1,5 +1,19 @@
 {
     "maps": [
+        {
+            "fileName": "map.json",
+            "height": 672,
+            "width": 992,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "../workadv_das-labor/basement.json",
+            "height": 864,
+            "width": 1760,
+            "x": 992,
+            "y": 0
+        }
     ],
     "onlyShowAdjacentMaps": false,
     "type": "world"
